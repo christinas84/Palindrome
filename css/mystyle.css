@@ -1,0 +1,15 @@
+body {
+	background: rgba(0, 0, 34, 0.8);
+}	
+.container {
+	margin: 0 auto;
+	text-align: center; 
+	border-radius: 25px;
+    background: rgba(96, 104, 82, 1);;
+    padding: 20px; 
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
