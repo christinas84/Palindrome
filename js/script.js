@@ -14,7 +14,8 @@
  }
    
    function clearAnswer(){
-     document.getElementById("answer").innerHTML = '';
+     document.getElementById("answer", "text").innerHTML = '';
+
    }
 
     
