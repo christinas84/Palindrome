@@ -14,8 +14,8 @@
  }
    
    function clearAnswer(){
-     document.getElementById("answer", "text").innerHTML = '';
-
+     document.getElementById("answer").innerHTML = '';
+     document.getElementById("text").value = '';
    }
 
     
